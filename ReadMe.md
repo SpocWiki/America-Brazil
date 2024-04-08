@@ -133,8 +133,10 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 [Alcohol-l::9.2] 
 [Language-Id::467] 
-[geo-lon::-45.9467] 
-[geo-lat::-20.7333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-45.9467] 
+[has_place_latitude::-20.7333] 
 
 
 

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-46.64] 
-[geo-lat::-23.54] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-46.64] 
+[has_place_latitude::-23.54] 
 [name::Sao Paulo] 
 State ::  
 Country :: [[../../../../Brazil]]  

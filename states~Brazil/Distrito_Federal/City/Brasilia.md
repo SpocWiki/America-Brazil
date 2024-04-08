@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-47.92] 
-[geo-lat::-15.78] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-47.92] 
+[has_place_latitude::-15.78] 
 [name::Brasilia] 
 State ::  
 Country :: [[../../../../Brazil]]  

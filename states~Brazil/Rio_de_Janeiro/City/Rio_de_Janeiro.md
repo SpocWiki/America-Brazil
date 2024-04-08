@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-43.28] 
-[geo-lat::-22.88] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-43.28] 
+[has_place_latitude::-22.88] 
 [name::Rio de Janeiro] 
 State ::  
 Country :: [[../../../../Brazil]]  
