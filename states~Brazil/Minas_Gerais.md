@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Minas_Gerais
+- Minas Gerais
 
 Languages:
 - de

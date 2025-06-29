@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Mato_Grosso_do_Sul
+- Mato Grosso do Sul
 
 Languages:
 - de

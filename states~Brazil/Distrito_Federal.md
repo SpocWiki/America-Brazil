@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Distrito_Federal
+- Distrito Federal
 
 Languages:
 - de

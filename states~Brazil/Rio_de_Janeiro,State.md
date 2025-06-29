@@ -13,7 +13,8 @@ confidential: public
 tags:
 - geo/Country/Region
 aliases:
-- Rio_de_Janeiro,State
+- Rio de Janeiro
+- Rio de Janeiro,State
 
 Languages:
 - de

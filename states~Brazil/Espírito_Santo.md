@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Espírito_Santo
+- Espírito Santo
 
 Languages:
 - de

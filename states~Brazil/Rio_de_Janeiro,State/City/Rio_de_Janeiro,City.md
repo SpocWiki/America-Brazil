@@ -1,16 +1,22 @@
 ---
-location: [-22.88,-43.28] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - -22.88
+  - -43.28
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 33742
 isDeleted: false
 confidential: public
-
+aliases:
+  - Rio_de_Janeiro,City
+  - Rio de Janeiro,City
+  - Rio de Janeiro City
+  - Rio de Janeiro 
 ---
 
 # [[Rio_de_Janeiro,City]] 

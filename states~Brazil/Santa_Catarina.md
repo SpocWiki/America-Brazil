@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Santa_Catarina
+- Santa Catarina
 
 Languages:
 - de

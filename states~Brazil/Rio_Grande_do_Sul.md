@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Rio_Grande_do_Sul
+- Rio Grande do Sul
 
 Languages:
 - de

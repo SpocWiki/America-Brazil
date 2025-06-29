@@ -1,3 +1,20 @@
+---
+location:
+  - -15.78
+  - -47.92
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: City
+tags:
+  - geo/City
+SpocWebEntityId: 29317
+isDeleted: false
+confidential: public
+aliases:
+  - Brasília
+---
 ﻿---
 location: [-15.78,-47.92] 
 mapzoom: [7,12] 

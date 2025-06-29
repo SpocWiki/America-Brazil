@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - Rio_Grande_do_Norte
+- Rio Grande do Norte
 
 Languages:
 - de

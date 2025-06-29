@@ -14,6 +14,7 @@ tags:
 - geo/Country/Region
 aliases:
 - São_Paulo
+- São Paulo
 
 Languages:
 - de
