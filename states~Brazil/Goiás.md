@@ -40,11 +40,16 @@ markerFolder: ./Goiás/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Goiás|Goiás]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Goiás.public|Goiás.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Goiás.internal|Goiás.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Goiás.protect|Goiás.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Goiás.private|Goiás.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Goiás.personal|Goiás.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Goiás.secret|Goiás.secret]] 
+
+### [Goiás.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilGoiás.public.md) 
+
+### [Goiás.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilGoiás.internal.md) 
+
+### [Goiás.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilGoiás.protect.md) 
+
+### [Goiás.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilGoiás.private.md) 
+
+### [Goiás.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilGoiás.personal.md) 
+
+### [Goiás.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilGoiás.secret.md)
 

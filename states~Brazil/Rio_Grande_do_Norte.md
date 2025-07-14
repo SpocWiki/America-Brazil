@@ -41,11 +41,16 @@ markerFolder: ./Rio_Grande_do_Norte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte|Rio_Grande_do_Norte]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte.public|Rio_Grande_do_Norte.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte.internal|Rio_Grande_do_Norte.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte.protect|Rio_Grande_do_Norte.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte.private|Rio_Grande_do_Norte.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte.personal|Rio_Grande_do_Norte.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rio_Grande_do_Norte.secret|Rio_Grande_do_Norte.secret]] 
+
+### [Rio_Grande_do_Norte.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilRio_Grande_do_Norte.public.md) 
+
+### [Rio_Grande_do_Norte.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilRio_Grande_do_Norte.internal.md) 
+
+### [Rio_Grande_do_Norte.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilRio_Grande_do_Norte.protect.md) 
+
+### [Rio_Grande_do_Norte.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilRio_Grande_do_Norte.private.md) 
+
+### [Rio_Grande_do_Norte.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilRio_Grande_do_Norte.personal.md) 
+
+### [Rio_Grande_do_Norte.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilRio_Grande_do_Norte.secret.md)
 

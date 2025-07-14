@@ -40,11 +40,16 @@ markerFolder: ./Tocantins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Tocantins|Tocantins]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Tocantins.public|Tocantins.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Tocantins.internal|Tocantins.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Tocantins.protect|Tocantins.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Tocantins.private|Tocantins.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Tocantins.personal|Tocantins.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Tocantins.secret|Tocantins.secret]] 
+
+### [Tocantins.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilTocantins.public.md) 
+
+### [Tocantins.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilTocantins.internal.md) 
+
+### [Tocantins.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilTocantins.protect.md) 
+
+### [Tocantins.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilTocantins.private.md) 
+
+### [Tocantins.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilTocantins.personal.md) 
+
+### [Tocantins.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilTocantins.secret.md)
 

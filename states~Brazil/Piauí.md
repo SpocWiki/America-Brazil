@@ -40,11 +40,16 @@ markerFolder: ./Piauí/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Piauí|Piauí]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Piauí.public|Piauí.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Piauí.internal|Piauí.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Piauí.protect|Piauí.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Piauí.private|Piauí.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Piauí.personal|Piauí.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Piauí.secret|Piauí.secret]] 
+
+### [Piauí.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilPiauí.public.md) 
+
+### [Piauí.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilPiauí.internal.md) 
+
+### [Piauí.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilPiauí.protect.md) 
+
+### [Piauí.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilPiauí.private.md) 
+
+### [Piauí.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilPiauí.personal.md) 
+
+### [Piauí.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilPiauí.secret.md)
 

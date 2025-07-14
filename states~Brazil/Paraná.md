@@ -40,11 +40,16 @@ markerFolder: ./Paraná/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Paraná|Paraná]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Paraná.public|Paraná.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Paraná.internal|Paraná.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Paraná.protect|Paraná.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Paraná.private|Paraná.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Paraná.personal|Paraná.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Paraná.secret|Paraná.secret]] 
+
+### [Paraná.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilParaná.public.md) 
+
+### [Paraná.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilParaná.internal.md) 
+
+### [Paraná.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilParaná.protect.md) 
+
+### [Paraná.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilParaná.private.md) 
+
+### [Paraná.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilParaná.personal.md) 
+
+### [Paraná.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilParaná.secret.md)
 

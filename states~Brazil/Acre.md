@@ -40,11 +40,16 @@ markerFolder: ./Acre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Acre|Acre]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Acre.public|Acre.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Acre.internal|Acre.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Acre.protect|Acre.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Acre.private|Acre.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Acre.personal|Acre.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Acre.secret|Acre.secret]] 
+
+### [Acre.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilAcre.public.md) 
+
+### [Acre.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilAcre.internal.md) 
+
+### [Acre.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilAcre.protect.md) 
+
+### [Acre.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilAcre.private.md) 
+
+### [Acre.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilAcre.personal.md) 
+
+### [Acre.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilAcre.secret.md)
 

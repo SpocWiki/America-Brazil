@@ -40,11 +40,16 @@ markerFolder: ./Sergipe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Sergipe|Sergipe]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Sergipe.public|Sergipe.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Sergipe.internal|Sergipe.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Sergipe.protect|Sergipe.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Sergipe.private|Sergipe.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Sergipe.personal|Sergipe.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Sergipe.secret|Sergipe.secret]] 
+
+### [Sergipe.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilSergipe.public.md) 
+
+### [Sergipe.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilSergipe.internal.md) 
+
+### [Sergipe.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilSergipe.protect.md) 
+
+### [Sergipe.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilSergipe.private.md) 
+
+### [Sergipe.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilSergipe.personal.md) 
+
+### [Sergipe.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilSergipe.secret.md)
 

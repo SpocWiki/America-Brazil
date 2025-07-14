@@ -137,11 +137,17 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 [has_place_latitude::-20.7333] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Brazil|Brazil]] 
-- [[../../../../_internal/geo/Continent/America~South/Brazil.internal|Brazil.internal]] 
-- [[../../../../_protect/geo/Continent/America~South/Brazil.protect|Brazil.protect]] 
-- [[../../../../_private/geo/Continent/America~South/Brazil.private|Brazil.private]] 
-- [[../../../../_personal/geo/Continent/America~South/Brazil.personal|Brazil.personal]] 
-- [[../../../../_secret/geo/Continent/America~South/Brazil.secret|Brazil.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~South\BrazilReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~South\BrazilReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~South\BrazilReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~South\BrazilReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~South\BrazilReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~South\BrazilReadMe.secret.md)
+

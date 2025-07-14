@@ -41,11 +41,16 @@ markerFolder: ./Rio_de_Janeiro,State/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State|Rio_de_Janeiro,State]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State.public|Rio_de_Janeiro,State.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State.internal|Rio_de_Janeiro,State.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State.protect|Rio_de_Janeiro,State.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State.private|Rio_de_Janeiro,State.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State.personal|Rio_de_Janeiro,State.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Rio_de_Janeiro,State.secret|Rio_de_Janeiro,State.secret]] 
+
+### [Rio_de_Janeiro,State.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.public.md) 
+
+### [Rio_de_Janeiro,State.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.internal.md) 
+
+### [Rio_de_Janeiro,State.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.protect.md) 
+
+### [Rio_de_Janeiro,State.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.private.md) 
+
+### [Rio_de_Janeiro,State.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.personal.md) 
+
+### [Rio_de_Janeiro,State.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.secret.md)
 

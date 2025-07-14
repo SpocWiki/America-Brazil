@@ -40,11 +40,16 @@ markerFolder: ./Roraima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Roraima|Roraima]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Roraima.public|Roraima.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Roraima.internal|Roraima.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Roraima.protect|Roraima.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Roraima.private|Roraima.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Roraima.personal|Roraima.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Roraima.secret|Roraima.secret]] 
+
+### [Roraima.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilRoraima.public.md) 
+
+### [Roraima.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilRoraima.internal.md) 
+
+### [Roraima.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilRoraima.protect.md) 
+
+### [Roraima.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilRoraima.private.md) 
+
+### [Roraima.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilRoraima.personal.md) 
+
+### [Roraima.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilRoraima.secret.md)
 

@@ -41,11 +41,16 @@ markerFolder: ./Distrito_Federal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/Counties/Distrito_Federal|Distrito_Federal]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/Counties/Distrito_Federal.public|Distrito_Federal.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/Counties/Distrito_Federal.internal|Distrito_Federal.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/Counties/Distrito_Federal.protect|Distrito_Federal.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/Counties/Distrito_Federal.private|Distrito_Federal.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/Counties/Distrito_Federal.personal|Distrito_Federal.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/Counties/Distrito_Federal.secret|Distrito_Federal.secret]] 
+
+### [Distrito_Federal.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilDistrito_Federal.public.md) 
+
+### [Distrito_Federal.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilDistrito_Federal.internal.md) 
+
+### [Distrito_Federal.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilDistrito_Federal.protect.md) 
+
+### [Distrito_Federal.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilDistrito_Federal.private.md) 
+
+### [Distrito_Federal.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilDistrito_Federal.personal.md) 
+
+### [Distrito_Federal.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilDistrito_Federal.secret.md)
 

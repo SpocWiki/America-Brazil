@@ -255,10 +255,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/Brazil/City/Sao_Paulo|Sao_Paulo]] 
-- [[../../../../../../_public/geo/Continent/America~South/Brazil/City/Sao_Paulo.public|Sao_Paulo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/Brazil/City/Sao_Paulo.internal|Sao_Paulo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/Brazil/City/Sao_Paulo.protect|Sao_Paulo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/Brazil/City/Sao_Paulo.private|Sao_Paulo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/Brazil/City/Sao_Paulo.personal|Sao_Paulo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/Brazil/City/Sao_Paulo.secret|Sao_Paulo.secret]] 
+
+### [Sao_Paulo,City.public](/_public/\Earth\Continent\America~South\Brazil\states~Brazil\São_Paulo\CitySao_Paulo,City.public.md) 
+
+### [Sao_Paulo,City.internal](/_internal/\Earth\Continent\America~South\Brazil\states~Brazil\São_Paulo\CitySao_Paulo,City.internal.md) 
+
+### [Sao_Paulo,City.protect](/_protect/\Earth\Continent\America~South\Brazil\states~Brazil\São_Paulo\CitySao_Paulo,City.protect.md) 
+
+### [Sao_Paulo,City.private](/_private/\Earth\Continent\America~South\Brazil\states~Brazil\São_Paulo\CitySao_Paulo,City.private.md) 
+
+### [Sao_Paulo,City.personal](/_personal/\Earth\Continent\America~South\Brazil\states~Brazil\São_Paulo\CitySao_Paulo,City.personal.md) 
+
+### [Sao_Paulo,City.secret](/_secret/\Earth\Continent\America~South\Brazil\states~Brazil\São_Paulo\CitySao_Paulo,City.secret.md)
+
