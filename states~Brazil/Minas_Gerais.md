@@ -42,15 +42,17 @@ markerFolder: ./Minas_Gerais/
 
 ## Confidential Links & Embeds: 
 
-### [Minas_Gerais.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilMinas_Gerais.public.md) 
+### [Minas_Gerais](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.md) 
 
-### [Minas_Gerais.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilMinas_Gerais.internal.md) 
+### [Minas_Gerais.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.public.md) 
 
-### [Minas_Gerais.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilMinas_Gerais.protect.md) 
+### [Minas_Gerais.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.internal.md) 
 
-### [Minas_Gerais.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilMinas_Gerais.private.md) 
+### [Minas_Gerais.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.protect.md) 
 
-### [Minas_Gerais.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilMinas_Gerais.personal.md) 
+### [Minas_Gerais.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.private.md) 
 
-### [Minas_Gerais.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilMinas_Gerais.secret.md)
+### [Minas_Gerais.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.personal.md) 
+
+### [Minas_Gerais.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Minas_Gerais.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Alagoas/
 
 ## Confidential Links & Embeds: 
 
-### [Alagoas.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilAlagoas.public.md) 
+### [Alagoas](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.md) 
 
-### [Alagoas.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilAlagoas.internal.md) 
+### [Alagoas.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.public.md) 
 
-### [Alagoas.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilAlagoas.protect.md) 
+### [Alagoas.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.internal.md) 
 
-### [Alagoas.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilAlagoas.private.md) 
+### [Alagoas.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.protect.md) 
 
-### [Alagoas.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilAlagoas.personal.md) 
+### [Alagoas.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.private.md) 
 
-### [Alagoas.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilAlagoas.secret.md)
+### [Alagoas.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.personal.md) 
+
+### [Alagoas.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Alagoas.secret.md)
 

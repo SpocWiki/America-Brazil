@@ -51,18 +51,19 @@ Rio_de_Janeiro,City Links & Embeds:
 - [[../../../../../../_secret/geo/Continent/America~South/Brazil/City/Rio_de_Janeiro,City.secret|Rio_de_Janeiro,City.secret]] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Rio_de_Janeiro,City.public](/_public/\Earth\Continent\America~South\Brazil\states~Brazil\Rio_de_Janeiro,State\CityRio_de_Janeiro,City.public.md) 
+### [Rio_de_Janeiro,City](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.md) 
 
-### [Rio_de_Janeiro,City.internal](/_internal/\Earth\Continent\America~South\Brazil\states~Brazil\Rio_de_Janeiro,State\CityRio_de_Janeiro,City.internal.md) 
+### [Rio_de_Janeiro,City.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.public.md) 
 
-### [Rio_de_Janeiro,City.protect](/_protect/\Earth\Continent\America~South\Brazil\states~Brazil\Rio_de_Janeiro,State\CityRio_de_Janeiro,City.protect.md) 
+### [Rio_de_Janeiro,City.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.internal.md) 
 
-### [Rio_de_Janeiro,City.private](/_private/\Earth\Continent\America~South\Brazil\states~Brazil\Rio_de_Janeiro,State\CityRio_de_Janeiro,City.private.md) 
+### [Rio_de_Janeiro,City.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.protect.md) 
 
-### [Rio_de_Janeiro,City.personal](/_personal/\Earth\Continent\America~South\Brazil\states~Brazil\Rio_de_Janeiro,State\CityRio_de_Janeiro,City.personal.md) 
+### [Rio_de_Janeiro,City.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.private.md) 
 
-### [Rio_de_Janeiro,City.secret](/_secret/\Earth\Continent\America~South\Brazil\states~Brazil\Rio_de_Janeiro,State\CityRio_de_Janeiro,City.secret.md)
+### [Rio_de_Janeiro,City.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.personal.md) 
+
+### [Rio_de_Janeiro,City.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.secret.md)
 

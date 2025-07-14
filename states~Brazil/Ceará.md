@@ -41,15 +41,17 @@ markerFolder: ./Ceará/
 
 ## Confidential Links & Embeds: 
 
-### [Ceará.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilCeará.public.md) 
+### [Ceará](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.md) 
 
-### [Ceará.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilCeará.internal.md) 
+### [Ceará.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.public.md) 
 
-### [Ceará.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilCeará.protect.md) 
+### [Ceará.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.internal.md) 
 
-### [Ceará.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilCeará.private.md) 
+### [Ceará.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.protect.md) 
 
-### [Ceará.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilCeará.personal.md) 
+### [Ceará.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.private.md) 
 
-### [Ceará.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilCeará.secret.md)
+### [Ceará.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.personal.md) 
+
+### [Ceará.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Ceará.secret.md)
 

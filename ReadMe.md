@@ -139,15 +139,17 @@ Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~South\BrazilReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~South/Brazil/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~South\BrazilReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~South/Brazil/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~South\BrazilReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~South/Brazil/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~South\BrazilReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~South/Brazil/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~South\BrazilReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~South/Brazil/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~South\BrazilReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~South/Brazil/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~South/Brazil/ReadMe.secret.md)
 

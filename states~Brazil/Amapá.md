@@ -41,15 +41,17 @@ markerFolder: ./Amapá/
 
 ## Confidential Links & Embeds: 
 
-### [Amapá.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilAmapá.public.md) 
+### [Amapá](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.md) 
 
-### [Amapá.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilAmapá.internal.md) 
+### [Amapá.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.public.md) 
 
-### [Amapá.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilAmapá.protect.md) 
+### [Amapá.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.internal.md) 
 
-### [Amapá.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilAmapá.private.md) 
+### [Amapá.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.protect.md) 
 
-### [Amapá.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilAmapá.personal.md) 
+### [Amapá.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.private.md) 
 
-### [Amapá.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilAmapá.secret.md)
+### [Amapá.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.personal.md) 
+
+### [Amapá.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.secret.md)
 

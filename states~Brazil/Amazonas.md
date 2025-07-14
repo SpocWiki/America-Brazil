@@ -41,15 +41,17 @@ markerFolder: ./Amazonas/
 
 ## Confidential Links & Embeds: 
 
-### [Amazonas.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilAmazonas.public.md) 
+### [Amazonas](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.md) 
 
-### [Amazonas.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilAmazonas.internal.md) 
+### [Amazonas.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.public.md) 
 
-### [Amazonas.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilAmazonas.protect.md) 
+### [Amazonas.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.internal.md) 
 
-### [Amazonas.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilAmazonas.private.md) 
+### [Amazonas.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.protect.md) 
 
-### [Amazonas.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilAmazonas.personal.md) 
+### [Amazonas.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.private.md) 
 
-### [Amazonas.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilAmazonas.secret.md)
+### [Amazonas.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.personal.md) 
+
+### [Amazonas.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas.secret.md)
 

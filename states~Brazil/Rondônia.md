@@ -41,15 +41,17 @@ markerFolder: ./Rondônia/
 
 ## Confidential Links & Embeds: 
 
-### [Rondônia.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilRondônia.public.md) 
+### [Rondônia](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.md) 
 
-### [Rondônia.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilRondônia.internal.md) 
+### [Rondônia.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.public.md) 
 
-### [Rondônia.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilRondônia.protect.md) 
+### [Rondônia.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.internal.md) 
 
-### [Rondônia.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilRondônia.private.md) 
+### [Rondônia.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.protect.md) 
 
-### [Rondônia.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilRondônia.personal.md) 
+### [Rondônia.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.private.md) 
 
-### [Rondônia.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilRondônia.secret.md)
+### [Rondônia.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.personal.md) 
+
+### [Rondônia.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rondônia.secret.md)
 

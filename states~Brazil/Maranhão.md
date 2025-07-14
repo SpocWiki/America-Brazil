@@ -41,15 +41,17 @@ markerFolder: ./Maranhão/
 
 ## Confidential Links & Embeds: 
 
-### [Maranhão.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilMaranhão.public.md) 
+### [Maranhão](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.md) 
 
-### [Maranhão.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilMaranhão.internal.md) 
+### [Maranhão.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.public.md) 
 
-### [Maranhão.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilMaranhão.protect.md) 
+### [Maranhão.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.internal.md) 
 
-### [Maranhão.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilMaranhão.private.md) 
+### [Maranhão.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.protect.md) 
 
-### [Maranhão.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilMaranhão.personal.md) 
+### [Maranhão.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.private.md) 
 
-### [Maranhão.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilMaranhão.secret.md)
+### [Maranhão.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.personal.md) 
+
+### [Maranhão.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Maranhão.secret.md)
 

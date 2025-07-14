@@ -42,15 +42,17 @@ markerFolder: ./Santa_Catarina/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Catarina.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilSanta_Catarina.public.md) 
+### [Santa_Catarina](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.md) 
 
-### [Santa_Catarina.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilSanta_Catarina.internal.md) 
+### [Santa_Catarina.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.public.md) 
 
-### [Santa_Catarina.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilSanta_Catarina.protect.md) 
+### [Santa_Catarina.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.internal.md) 
 
-### [Santa_Catarina.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilSanta_Catarina.private.md) 
+### [Santa_Catarina.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.protect.md) 
 
-### [Santa_Catarina.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilSanta_Catarina.personal.md) 
+### [Santa_Catarina.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.private.md) 
 
-### [Santa_Catarina.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilSanta_Catarina.secret.md)
+### [Santa_Catarina.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.personal.md) 
+
+### [Santa_Catarina.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.secret.md)
 

@@ -42,15 +42,17 @@ markerFolder: ./Rio_de_Janeiro,State/
 
 ## Confidential Links & Embeds: 
 
-### [Rio_de_Janeiro,State.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.public.md) 
+### [Rio_de_Janeiro,State](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.md) 
 
-### [Rio_de_Janeiro,State.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.internal.md) 
+### [Rio_de_Janeiro,State.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.public.md) 
 
-### [Rio_de_Janeiro,State.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.protect.md) 
+### [Rio_de_Janeiro,State.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.internal.md) 
 
-### [Rio_de_Janeiro,State.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.private.md) 
+### [Rio_de_Janeiro,State.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.protect.md) 
 
-### [Rio_de_Janeiro,State.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.personal.md) 
+### [Rio_de_Janeiro,State.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.private.md) 
 
-### [Rio_de_Janeiro,State.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilRio_de_Janeiro,State.secret.md)
+### [Rio_de_Janeiro,State.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.personal.md) 
+
+### [Rio_de_Janeiro,State.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Bahia/
 
 ## Confidential Links & Embeds: 
 
-### [Bahia.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilBahia.public.md) 
+### [Bahia](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.md) 
 
-### [Bahia.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilBahia.internal.md) 
+### [Bahia.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.public.md) 
 
-### [Bahia.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilBahia.protect.md) 
+### [Bahia.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.internal.md) 
 
-### [Bahia.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilBahia.private.md) 
+### [Bahia.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.protect.md) 
 
-### [Bahia.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilBahia.personal.md) 
+### [Bahia.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.private.md) 
 
-### [Bahia.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilBahia.secret.md)
+### [Bahia.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.personal.md) 
+
+### [Bahia.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Bahia.secret.md)
 

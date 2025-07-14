@@ -41,15 +41,17 @@ markerFolder: ./Pará/
 
 ## Confidential Links & Embeds: 
 
-### [Pará.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilPará.public.md) 
+### [Pará](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Pará.md) 
 
-### [Pará.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilPará.internal.md) 
+### [Pará.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Pará.public.md) 
 
-### [Pará.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilPará.protect.md) 
+### [Pará.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Pará.internal.md) 
 
-### [Pará.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilPará.private.md) 
+### [Pará.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Pará.protect.md) 
 
-### [Pará.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilPará.personal.md) 
+### [Pará.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Pará.private.md) 
 
-### [Pará.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilPará.secret.md)
+### [Pará.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Pará.personal.md) 
+
+### [Pará.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Pará.secret.md)
 

@@ -42,15 +42,17 @@ markerFolder: ./Mato_Grosso_do_Sul/
 
 ## Confidential Links & Embeds: 
 
-### [Mato_Grosso_do_Sul.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilMato_Grosso_do_Sul.public.md) 
+### [Mato_Grosso_do_Sul](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.md) 
 
-### [Mato_Grosso_do_Sul.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilMato_Grosso_do_Sul.internal.md) 
+### [Mato_Grosso_do_Sul.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.public.md) 
 
-### [Mato_Grosso_do_Sul.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilMato_Grosso_do_Sul.protect.md) 
+### [Mato_Grosso_do_Sul.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.internal.md) 
 
-### [Mato_Grosso_do_Sul.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilMato_Grosso_do_Sul.private.md) 
+### [Mato_Grosso_do_Sul.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.protect.md) 
 
-### [Mato_Grosso_do_Sul.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilMato_Grosso_do_Sul.personal.md) 
+### [Mato_Grosso_do_Sul.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.private.md) 
 
-### [Mato_Grosso_do_Sul.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilMato_Grosso_do_Sul.secret.md)
+### [Mato_Grosso_do_Sul.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.personal.md) 
+
+### [Mato_Grosso_do_Sul.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Mato_Grosso_do_Sul.secret.md)
 

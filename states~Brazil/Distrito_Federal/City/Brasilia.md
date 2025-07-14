@@ -52,15 +52,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brasilia.public](/_public/\Earth\Continent\America~South\Brazil\states~Brazil\Distrito_Federal\CityBrasilia.public.md) 
+### [Brasilia](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.md) 
 
-### [Brasilia.internal](/_internal/\Earth\Continent\America~South\Brazil\states~Brazil\Distrito_Federal\CityBrasilia.internal.md) 
+### [Brasilia.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.public.md) 
 
-### [Brasilia.protect](/_protect/\Earth\Continent\America~South\Brazil\states~Brazil\Distrito_Federal\CityBrasilia.protect.md) 
+### [Brasilia.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.internal.md) 
 
-### [Brasilia.private](/_private/\Earth\Continent\America~South\Brazil\states~Brazil\Distrito_Federal\CityBrasilia.private.md) 
+### [Brasilia.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.protect.md) 
 
-### [Brasilia.personal](/_personal/\Earth\Continent\America~South\Brazil\states~Brazil\Distrito_Federal\CityBrasilia.personal.md) 
+### [Brasilia.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.private.md) 
 
-### [Brasilia.secret](/_secret/\Earth\Continent\America~South\Brazil\states~Brazil\Distrito_Federal\CityBrasilia.secret.md)
+### [Brasilia.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.personal.md) 
+
+### [Brasilia.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.secret.md)
 

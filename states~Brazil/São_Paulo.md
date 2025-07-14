@@ -42,15 +42,17 @@ markerFolder: ./São_Paulo/
 
 ## Confidential Links & Embeds: 
 
-### [São_Paulo.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilSão_Paulo.public.md) 
+### [São_Paulo](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.md) 
 
-### [São_Paulo.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilSão_Paulo.internal.md) 
+### [São_Paulo.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.public.md) 
 
-### [São_Paulo.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilSão_Paulo.protect.md) 
+### [São_Paulo.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.internal.md) 
 
-### [São_Paulo.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilSão_Paulo.private.md) 
+### [São_Paulo.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.protect.md) 
 
-### [São_Paulo.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilSão_Paulo.personal.md) 
+### [São_Paulo.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.private.md) 
 
-### [São_Paulo.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilSão_Paulo.secret.md)
+### [São_Paulo.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.personal.md) 
+
+### [São_Paulo.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.secret.md)
 

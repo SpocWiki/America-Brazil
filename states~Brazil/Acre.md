@@ -41,15 +41,17 @@ markerFolder: ./Acre/
 
 ## Confidential Links & Embeds: 
 
-### [Acre.public](/_public/\Earth\Continent\America~South\Brazil\states~BrazilAcre.public.md) 
+### [Acre](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Acre.md) 
 
-### [Acre.internal](/_internal/\Earth\Continent\America~South\Brazil\states~BrazilAcre.internal.md) 
+### [Acre.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Acre.public.md) 
 
-### [Acre.protect](/_protect/\Earth\Continent\America~South\Brazil\states~BrazilAcre.protect.md) 
+### [Acre.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Acre.internal.md) 
 
-### [Acre.private](/_private/\Earth\Continent\America~South\Brazil\states~BrazilAcre.private.md) 
+### [Acre.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Acre.protect.md) 
 
-### [Acre.personal](/_personal/\Earth\Continent\America~South\Brazil\states~BrazilAcre.personal.md) 
+### [Acre.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Acre.private.md) 
 
-### [Acre.secret](/_secret/\Earth\Continent\America~South\Brazil\states~BrazilAcre.secret.md)
+### [Acre.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Acre.personal.md) 
+
+### [Acre.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Acre.secret.md)
 
