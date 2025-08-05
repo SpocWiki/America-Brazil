@@ -15,20 +15,7 @@ confidential: public
 aliases:
   - Brasília
 ---
-﻿---
-location: [-15.78,-47.92] 
-mapzoom: [7,12] 
-mapmarker: city 
-type: City
-tags:
-- geo/City
 
-
-SpocWebEntityId: 29317
-isDeleted: false
-confidential: public
-
----
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::-47.92] 
