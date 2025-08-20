@@ -1,40 +1,41 @@
 ---
 location:
-- -20.7333
-- -45.9467
+  - -20.7333
+  - -45.9467
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26853
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Brazil
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Brazil
-- Brasil
-- Brésil
-- البرازيل
-- 巴西
-- Бразилия
-- the Federative Republic of Brazil
-- la República Federativa del Brasil
-- Brasil (el)
+  - Brazil
+  - Brasil
+  - Brésil
+  - البرازيل
+  - 巴西
+  - Бразилия
+  - the Federative Republic of Brazil
+  - la República Federativa del Brasil
+  - Brasil (el)
 Languages:
-- pt-BR
-- es
-- en
-- fr
+  - pt-BR
+  - es
+  - en
+  - fr
 ---
 
 
