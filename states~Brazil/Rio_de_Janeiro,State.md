@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Rio_de_Janeiro,State
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rio_de_Janeiro,State/
 markerFolder: ./Rio_de_Janeiro,State/

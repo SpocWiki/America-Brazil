@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Mato_Grosso_do_Sul
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mato_Grosso_do_Sul/
 markerFolder: ./Mato_Grosso_do_Sul/

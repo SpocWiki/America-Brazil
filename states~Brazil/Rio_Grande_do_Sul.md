@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Rio_Grande_do_Sul
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rio_Grande_do_Sul/
 markerFolder: ./Rio_Grande_do_Sul/

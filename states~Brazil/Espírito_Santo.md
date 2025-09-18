@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Espírito_Santo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Espírito_Santo/
 markerFolder: ./Espírito_Santo/

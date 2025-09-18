@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Minas_Gerais
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Minas_Gerais/
 markerFolder: ./Minas_Gerais/

@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Rio_Grande_do_Norte
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Rio_Grande_do_Norte/
 markerFolder: ./Rio_Grande_do_Norte/

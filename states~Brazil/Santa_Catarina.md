@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: Santa_Catarina
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santa_Catarina/
 markerFolder: ./Santa_Catarina/
