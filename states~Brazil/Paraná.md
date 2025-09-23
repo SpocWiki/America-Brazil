@@ -26,7 +26,7 @@ publishDate:
 expiryDate:
 ---
 
-# Paraná
+# [[Paraná]]
 
 ```leaflet
 id: Paraná
