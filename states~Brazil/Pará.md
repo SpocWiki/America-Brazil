@@ -35,6 +35,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Pará/
 markerFolder: ./Pará/
+coordinates: [[Pará]] 
+markerFile: [[Pará]] 
 ```
 
 
