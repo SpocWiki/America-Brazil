@@ -142,7 +142,7 @@ State ::
 Country :: [[../../../../Brazil]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brasília,2844|WD~Brasília,2844]] 
 
