@@ -45,6 +45,19 @@ Commons_category: Negro River (tributary of the Amazon)
 
 #is_/same_as :: [[WD~Rio_Negro,118771]] 
 
+## #has_/map 
+
+```leaflet
+id: Rio_Negro(Amazon)
+coordinates: [[Rio_Negro(Amazon)]] 
+markerFile: [[Rio_Negro(Amazon)]] 
+geojsonFolder: ./Rio_Negro(Amazon)/
+markerFolder: ./Rio_Negro(Amazon)/
+zoomFeatures: true 
+defaultZoom: 11 
+maxZoom: 18
+```
+
 ## #has_/text_of_/abstract 
 
 > The Rio Negro (Spanish: Río Negro [ˈri.o ˈneɣɾo] "Black River"), 

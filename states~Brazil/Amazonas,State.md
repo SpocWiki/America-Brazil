@@ -26,7 +26,7 @@ publishDate:
 expiryDate:
 ---
 
-# Amazonas
+# [[Amazonas]]
 
 ```leaflet
 id: Amazonas
@@ -36,6 +36,7 @@ maxZoom: 18
 geojsonFolder: ./Amazonas/
 markerFolder: ./Amazonas/
 ```
+
 
 
 ## Confidential Links & Embeds: 
