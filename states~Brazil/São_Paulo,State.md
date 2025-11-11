@@ -2,6 +2,7 @@
 aliases:
   - São_Paulo
   - São Paulo
+  - Sao Paulo
 has_id_wikidata: Q174
 location:
   - -22.5
@@ -206,19 +207,22 @@ postal_code: 01000-000
 Libris_URI: 42gjjrpn1cklhfp
 ---
 
-# [[São_Paulo]]
+# [[São_Paulo,State]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]] 
 
 ## #has_/map 
 
 ```leaflet
-id: São_Paulo
+id: São_Paulo,State
 zoomFeatures: true 
 minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./São_Paulo/
-markerFolder: ./São_Paulo/
+geojsonFolder: ./São_Paulo,State/
+markerFolder: ./São_Paulo,State/
+coordinates: [[São_Paulo,State]] 
+markerFile: [[São_Paulo,State]] 
+defaultZoom: 11 
 ```
 
 ## #has_/text_of_/abstract 
@@ -236,17 +240,17 @@ markerFolder: ./São_Paulo/
 
 ## Confidential Links & Embeds: 
 
-### [São_Paulo](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.md) 
+### [São_Paulo,State](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.md) 
 
-### [São_Paulo.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.public.md) 
+### [São_Paulo,State.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.public.md) 
 
-### [São_Paulo.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.internal.md) 
+### [São_Paulo,State.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.internal.md) 
 
-### [São_Paulo.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.protect.md) 
+### [São_Paulo,State.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.protect.md) 
 
-### [São_Paulo.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.private.md) 
+### [São_Paulo,State.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.private.md) 
 
-### [São_Paulo.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.personal.md) 
+### [São_Paulo,State.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.personal.md) 
 
-### [São_Paulo.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo.secret.md)
+### [São_Paulo,State.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.secret.md)
 
