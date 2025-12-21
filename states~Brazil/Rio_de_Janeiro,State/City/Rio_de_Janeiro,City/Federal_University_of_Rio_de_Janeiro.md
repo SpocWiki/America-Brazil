@@ -2,28 +2,29 @@
 aliases:
   - Federal University of Rio de Janeiro
   - Universidade Federal do Rio de Janeiro
+  - Federal_University_of_Rio_de_Janeiro
 has_id_wikidata: Q586904
 instance_of:
-  - "[[_Standards/WikiData/WD~public_university,875538]]"
-  - "[[_Standards/WikiData/WD~open_access_publisher,45400320]]"
-source_of_income: "[[_Standards/WikiData/WD~federal_government,1006644]]"
+  - '[[_Standards/WikiData/WD~public_university,875538]]'
+  - '[[_Standards/WikiData/WD~open_access_publisher,45400320]]'
+source_of_income: '[[_Standards/WikiData/WD~federal_government,1006644]]'
 child_organization_unit:
-  - "[[_Standards/WikiData/WD~Museu_Nacional,1850416]]"
-  - "[[_Standards/WikiData/WD~Science_&_Cognition,18243914]]"
+  - '[[_Standards/WikiData/WD~Museu_Nacional,1850416]]'
+  - '[[_Standards/WikiData/WD~Science_&_Cognition,18243914]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Cidade_Universitária,2428695]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
-member_of: "[[_Standards/WikiData/WD~Agence_universitaire_de_la_Francophonie,2826718]]"
-rector: "[[_Standards/WikiData/WD~Roberto_Leher,25430488]]"
-heritage_designation: "[[_Standards/WikiData/WD~heritage_asset_listed_by_IPHAN,45823285]]"
+  - '[[_Standards/WikiData/WD~Cidade_Universitária,2428695]]'
+  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+member_of: '[[_Standards/WikiData/WD~Agence_universitaire_de_la_Francophonie,2826718]]'
+rector: '[[_Standards/WikiData/WD~Roberto_Leher,25430488]]'
+heritage_designation: '[[_Standards/WikiData/WD~heritage_asset_listed_by_IPHAN,45823285]]'
 on_focus_list_of_Wikimedia_project:
-  - "[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_Brazil,105730568]]"
-  - "[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]"
+  - '[[_Standards/WikiData/WD~Wiki_Loves_Monuments_in_Brazil,105730568]]'
+  - '[[_Standards/WikiData/WD~Wikidata_WikiProject_Academic_Publisher,117222928]]'
 color:
-  - "[[_Standards/WikiData/WD~yellow,943]]"
-  - "[[_Standards/WikiData/WD~white,23444]]"
-language_used: "[[_Standards/WikiData/WD~Portuguese,5146]]"
-country: "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~yellow,943]]'
+  - '[[_Standards/WikiData/WD~white,23444]]'
+language_used: '[[_Standards/WikiData/WD~Portuguese,5146]]'
+country: '[[_Standards/WikiData/WD~Brazil,155]]'
 elevation_above_sea_level: 12
 budget: 3100000000
 ranking:
@@ -50,7 +51,7 @@ official_website:
   - https://ufrj.br/
   - https://ufrj.br/en/
 ISNI: 000000012294473X
-EU_Participant_Identification_Code: "999848841"
+EU_Participant_Identification_Code: 999848841
 Wolfram_Language_entity_code: Entity["University", "UniversidadeFederalDoRioDeJaneiro::wcdv4"]
 Commons_category: Federal University of Rio de Janeiro
 e_MEC_entry: NTg2

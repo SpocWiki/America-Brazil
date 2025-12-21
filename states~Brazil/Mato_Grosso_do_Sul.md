@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mato_Grosso_do_Sul
+  - Mato Grosso do Sul
 location:
   - -20.6
   - -54.8
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Mato_Grosso_do_Sul
-  - Mato Grosso do Sul
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Mato_Grosso_do_Sul

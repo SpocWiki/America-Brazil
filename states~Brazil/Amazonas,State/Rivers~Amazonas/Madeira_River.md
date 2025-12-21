@@ -2,43 +2,45 @@
 aliases:
   - Rio Madeira
   - Cuyari
+  - Madeira_River
+  - Madeira River
 has_id_wikidata: Q118251
 tributary:
-  - "[[_Standards/WikiData/WD~Mamoré_River,117615]]"
-  - "[[_Standards/WikiData/WD~Beni_River,142604]]"
-  - "[[_Standards/WikiData/WD~Ji_Paraná_River,386983]]"
-  - "[[_Standards/WikiData/WD~Aripuanã_River,1436100]]"
-  - "[[_Standards/WikiData/WD~Abuna_River,1477896]]"
-  - "[[_Standards/WikiData/WD~Canumã_River,5034112]]"
-  - "[[_Standards/WikiData/WD~Dos_Marmelos_River,5299172]]"
-  - "[[_Standards/WikiData/WD~Jamari_River,6127753]]"
-  - "[[_Standards/WikiData/WD~Mataurá_River,6786166]]"
-  - "[[_Standards/WikiData/WD~Q22054533,22054533]]"
-  - "[[_Standards/WikiData/WD~Mariepauá_River,22054637]]"
+  - '[[_Standards/WikiData/WD~Mamoré_River,117615]]'
+  - '[[_Standards/WikiData/WD~Beni_River,142604]]'
+  - '[[_Standards/WikiData/WD~Ji_Paraná_River,386983]]'
+  - '[[_Standards/WikiData/WD~Aripuanã_River,1436100]]'
+  - '[[_Standards/WikiData/WD~Abuna_River,1477896]]'
+  - '[[_Standards/WikiData/WD~Canumã_River,5034112]]'
+  - '[[_Standards/WikiData/WD~Dos_Marmelos_River,5299172]]'
+  - '[[_Standards/WikiData/WD~Jamari_River,6127753]]'
+  - '[[_Standards/WikiData/WD~Mataurá_River,6786166]]'
+  - '[[_Standards/WikiData/WD~Q22054533,22054533]]'
+  - '[[_Standards/WikiData/WD~Mariepauá_River,22054637]]'
 origin_of_the_watercourse:
-  - "[[_Standards/WikiData/WD~Mamoré_River,117615]]"
-  - "[[_Standards/WikiData/WD~Beni_River,142604]]"
+  - '[[_Standards/WikiData/WD~Mamoré_River,117615]]'
+  - '[[_Standards/WikiData/WD~Beni_River,142604]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Pando_Department,235362]]"
-  - "[[_Standards/WikiData/WD~Amazonas,40040]]"
-  - "[[_Standards/WikiData/WD~Rondônia,43235]]"
-drainage_basin: "[[_Standards/WikiData/WD~Amazon_basin,244451]]"
+  - '[[_Standards/WikiData/WD~Pando_Department,235362]]'
+  - '[[_Standards/WikiData/WD~Amazonas,40040]]'
+  - '[[_Standards/WikiData/WD~Rondônia,43235]]'
+drainage_basin: '[[_Standards/WikiData/WD~Amazon_basin,244451]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 basin_country:
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~Peru,419]]'
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
 country:
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-mouth_of_the_watercourse: "[[_Standards/WikiData/WD~Amazon,3783]]"
-instance_of: "[[_Standards/WikiData/WD~river,4022]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
+  - '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
+mouth_of_the_watercourse: '[[_Standards/WikiData/WD~Amazon,3783]]'
+instance_of: '[[_Standards/WikiData/WD~river,4022]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
 watershed_area: 1420000
 length: 1450
 discharge: 31200

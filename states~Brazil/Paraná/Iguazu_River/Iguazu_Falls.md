@@ -3,23 +3,24 @@ aliases:
   - Iguaçu Falls
   - Iguazú Falls
   - Iguazu Falls
+  - Iguazu_Falls
 has_id_wikidata: Q36332
-part_of: "[[_Standards/WikiData/WD~Iguazu_River,191635]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Iguazu_River,191635]]"
+part_of: '[[_Standards/WikiData/WD~Iguazu_River,191635]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Iguazu_River,191635]]'
 located_in_protected_area:
-  - "[[_Standards/WikiData/WD~Iguazú_National_Park,474205]]"
-  - "[[_Standards/WikiData/WD~Iguaçu_National_Park,742315]]"
+  - '[[_Standards/WikiData/WD~Iguazú_National_Park,474205]]'
+  - '[[_Standards/WikiData/WD~Iguaçu_National_Park,742315]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
-  - "[[_Standards/WikiData/WD~horseshoe_waterfall,2270442]]"
-  - "[[_Standards/WikiData/WD~waterfall,34038]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~Q46867411,46867411]]"
+  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
+  - '[[_Standards/WikiData/WD~horseshoe_waterfall,2270442]]'
+  - '[[_Standards/WikiData/WD~waterfall,34038]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Q46867411,46867411]]'
 country:
-  - "[[_Standards/WikiData/WD~Argentina,414]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - '[[_Standards/WikiData/WD~Argentina,414]]'
+  - '[[_Standards/WikiData/WD~Brazil,155]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Paraná,15499]]"
-  - "[[_Standards/WikiData/WD~Misiones_Province,44798]]"
+  - '[[_Standards/WikiData/WD~Paraná,15499]]'
+  - '[[_Standards/WikiData/WD~Misiones_Province,44798]]'
 elevation_above_sea_level: 180
 width: 2700
 height: 82

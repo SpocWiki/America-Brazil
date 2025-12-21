@@ -2,21 +2,23 @@
 aliases:
   - Tumucumaque Mountains National Park
   - Parque Nacional Montanhas do Tumucumaque
+  - Tumucumaque_National_Park
+  - Tumucumaque National Park
 has_id_wikidata: Q575822
 location:
   - 1.83333
   - -54
 coordinate_location: Point(-54.0 1.83333)
-has_part_s_: "[[_Standards/WikiData/WD~Amazon_rainforest,177567]]"
-operator: "[[_Standards/WikiData/WD~Chico_Mendes_Institute_for_Biodiversity_Conservation,3151725]]"
-authority: "[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
-country: "[[_Standards/WikiData/WD~Brazil,155]]"
+has_part_s_: '[[_Standards/WikiData/WD~Amazon_rainforest,177567]]'
+operator: '[[_Standards/WikiData/WD~Chico_Mendes_Institute_for_Biodiversity_Conservation,3151725]]'
+authority: '[[_Standards/WikiData/WD~Federal_Government_of_Brazil,5440531]]'
+IUCN_protected_areas_category: '[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]'
+country: '[[_Standards/WikiData/WD~Brazil,155]]'
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Pará,39517]]"
-  - "[[_Standards/WikiData/WD~Amapá,40130]]"
+  - '[[_Standards/WikiData/WD~Pará,39517]]'
+  - '[[_Standards/WikiData/WD~Amapá,40130]]'
 elevation_above_sea_level: 279
-instance_of: "[[_Standards/WikiData/WD~national_park,46169]]"
+instance_of: '[[_Standards/WikiData/WD~national_park,46169]]'
 area:
   - 38464
   - 3835266

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santa_Catarina
+  - Santa Catarina
 location:
   - -27.7
   - -50
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santa_Catarina
-  - Santa Catarina
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santa_Catarina

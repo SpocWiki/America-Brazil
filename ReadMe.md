@@ -1,4 +1,15 @@
 ---
+aliases:
+  - Brazil
+  - Brasil
+  - Brésil
+  - البرازيل
+  - 巴西
+  - Бразилия
+  - the Federative Republic of Brazil
+  - la República Federativa del Brasil
+  - Brasil (el)
+  - ReadMe
 location:
   - -20.7333
   - -45.9467
@@ -15,22 +26,12 @@ cssclasses:
   - Country
 publish: true
 title: Brazil
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Brazil
-  - Brasil
-  - Brésil
-  - البرازيل
-  - 巴西
-  - Бразилия
-  - the Federative Republic of Brazil
-  - la República Federativa del Brasil
-  - Brasil (el)
+publishDate: ''
+expiryDate: ''
 Languages:
   - pt-BR
   - es

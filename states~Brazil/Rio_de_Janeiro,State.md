@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Rio de Janeiro
+  - Rio de Janeiro,State
+  - Rio_de_Janeiro,State
 location:
   - -22.1
   - -42.1
@@ -12,19 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rio de Janeiro
-  - Rio de Janeiro,State
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Rio_de_Janeiro,State]] 

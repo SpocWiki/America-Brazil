@@ -2,23 +2,24 @@
 aliases:
   - Marajó
   - Ilha de Marajó
+  - Marajó-Island
 has_id_wikidata: Q193264
 location:
   - -0.978611
   - -49.581667
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 coordinate_location: Point(-49.581667 -0.978611)
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Amazon,3783]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_03_00,6513]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442]]"
-continent: "[[_Standards/WikiData/WD~South_America,18]]"
-country: "[[_Standards/WikiData/WD~Brazil,155]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Amazon,3783]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+instance_of: '[[_Standards/WikiData/WD~island,23442]]'
+continent: '[[_Standards/WikiData/WD~South_America,18]]'
+country: '[[_Standards/WikiData/WD~Brazil,155]]'
 elevation_above_sea_level: 19
 width: 204
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Pará,39517]]"
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Pará,39517]]'
 length: 297
 area: 40100
 population: 419744

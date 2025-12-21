@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mato_Grosso
+  - Mato Grosso
 location:
   - -13
   - -55
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Mato_Grosso
-  - Mato Grosso
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Mato_Grosso

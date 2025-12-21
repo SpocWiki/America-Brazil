@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Minas_Gerais
+  - Minas Gerais
 location:
   - -19
   - -45
@@ -12,19 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Minas_Gerais
-  - Minas Gerais
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Minas_Gerais
