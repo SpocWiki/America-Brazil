@@ -37,6 +37,8 @@ minZoom: 4
 maxZoom: 18
 geojsonFolder: ./Tocantins,State/
 markerFolder: ./Tocantins,State/
+coordinates: [[Tocantins,State]] 
+markerFile: [[Tocantins,State]] 
 ```
 
 ## #has_/text_of_/abstract 
@@ -63,7 +65,7 @@ markerFolder: ./Tocantins,State/
 > Tocantins has attracted hundreds of thousands of new residents, primarily to Palmas. 
 > It is building on its hydropower resources. 
 > 
-> The Araguaia and [[../../../../../WikiData/Tocantins_River|Tocantins_River]]s drain 
+> The Araguaia and [[Tocantins,State/Tocantins_River|Tocantins_River]]s drain 
 > the largest watershed that lies entirely inside Brazilian territory. 
 > 
 > The Rio Tocantins has been dammed for hydropower, 
