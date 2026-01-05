@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2002-08-22 
 aliases:
   - Tumucumaque Mountains National Park
   - Parque Nacional Montanhas do Tumucumaque

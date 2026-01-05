@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1920-09-07 
 aliases:
   - Federal University of Rio de Janeiro
   - Universidade Federal do Rio de Janeiro

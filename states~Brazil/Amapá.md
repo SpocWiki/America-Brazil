@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1988-10-05 
 aliases:
   - Amapá
 has_id_wikidata: Q40130

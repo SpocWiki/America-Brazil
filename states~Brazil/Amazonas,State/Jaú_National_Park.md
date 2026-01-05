@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1980-01-01 
 aliases:
   - Jaú National Park
   - Parque Nacional do Jaú

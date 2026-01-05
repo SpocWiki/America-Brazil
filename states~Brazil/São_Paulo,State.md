@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1554-02-04 
 aliases:
   - São_Paulo
   - São Paulo
