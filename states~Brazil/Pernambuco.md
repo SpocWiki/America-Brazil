@@ -40,17 +40,17 @@ markerFolder: ./Pernambuco/
 
 ## Confidential Links & Embeds: 
 
-### [Pernambuco](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco|Pernambuco]] 
 
-### [Pernambuco.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.public|Pernambuco.public]] 
 
-### [Pernambuco.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.internal|Pernambuco.internal]] 
 
-### [Pernambuco.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.protect|Pernambuco.protect]] 
 
-### [Pernambuco.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.private|Pernambuco.private]] 
 
-### [Pernambuco.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.personal|Pernambuco.personal]] 
 
-### [Pernambuco.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Pernambuco.secret|Pernambuco.secret]] 
 

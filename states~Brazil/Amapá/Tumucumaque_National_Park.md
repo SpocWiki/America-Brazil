@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Park", "TumucumaqueNationalPark: n4d3f"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Tumucumaque_National_Park,575822|WD~Tumucumaque_National_Park,575822]]"
+dv_park-tumucumaquenationalpark: n4d3f"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Tumucumaque_National_Park,575822|WD~Tumucumaque_National_Park,575822]]"
+
 has_time_started: 2002-08-22 
 aliases:
   - Tumucumaque Mountains National Park
@@ -27,7 +33,7 @@ official_website: http://montanhasdotumucumaque.blogspot.com/
 inception: 2002-08-22T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oyapock%20maripa%20falls%20tree.jpg
 email_address: mailto:tumucumaque.ap@ibama.gov.br
-Wolfram_Language_entity_code: Entity["Park", "TumucumaqueNationalPark::n4d3f"]
+Wolfram_Language_entity_code: Entity"Park", "TumucumaqueNationalPark = `=this.dv_"Park", "TumucumaqueNationalPark`
 Commons_category: Parque Nacional Montanhas do Tumucumaque
 Facebook_username: Parque-Nacional-Montanhas-do-Tumucumaque-273338069378668
 X_Twitter_username: Tumucumaque1
@@ -35,7 +41,7 @@ X_Twitter_username: Tumucumaque1
 
 # [[Tumucumaque_National_Park]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Tumucumaque_National_Park,575822|WD~Tumucumaque_National_Park,575822]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -45,4 +51,21 @@ X_Twitter_username: Tumucumaque1
 > It is bordered to the north by French Guiana and Suriname.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tumucumaque%20Mountains%20National%20Park) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park|Tumucumaque_National_Park]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park.public|Tumucumaque_National_Park.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park.internal|Tumucumaque_National_Park.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park.protect|Tumucumaque_National_Park.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park.private|Tumucumaque_National_Park.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park.personal|Tumucumaque_National_Park.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Amapá/Tumucumaque_National_Park.secret|Tumucumaque_National_Park.secret]] 
 

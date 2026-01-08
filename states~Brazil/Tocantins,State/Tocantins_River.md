@@ -32,12 +32,17 @@ discharge: 11364
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ponte%20Imperatriz.jpg
 Commons_category: Tocantins River
 native_label: Rio Tocantins
-Wolfram_Language_entity_code: Entity["River", "Tocantins::4wf3z"]
+Wolfram_Language_entity_code: Entity"River", "Tocantins = `=this.dv_"River", "Tocantins`
+dv_"River", "Tocantins: 4wf3z"
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Tocantins_River,156054]]"
+dv_river-tocantins: 4wf3z"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Tocantins_River,156054]]"
 ---
 
 # [[Tocantins_River]] 
 
-#is_/same_as :: [[WD~Tocantins_River,156054]] 
+is_same_as = `=this.dv_is_same_as`
 [[Tocantins .geojson]]
 ## #has_/text_of_/abstract 
 
@@ -61,4 +66,21 @@ Wolfram_Language_entity_code: Entity["River", "Tocantins::4wf3z"]
 > The Tocantins is one of the largest clearwater rivers in South America.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tocantins%20River) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River|Tocantins_River]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River.public|Tocantins_River.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River.internal|Tocantins_River.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River.protect|Tocantins_River.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River.private|Tocantins_River.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River.personal|Tocantins_River.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State/Tocantins_River.secret|Tocantins_River.secret]] 
 

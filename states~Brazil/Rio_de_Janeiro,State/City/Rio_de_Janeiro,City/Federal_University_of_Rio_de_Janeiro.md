@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"University", "UniversidadeFederalDoRioDeJaneiro: wcdv4"
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Federal_University_of_Rio_de_Janeiro,586904|WD~Federal_University_of_Rio_de_Janeiro,586904]]"
+dv_university-universidadefederaldoriodejaneiro: wcdv4"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Federal_University_of_Rio_de_Janeiro,586904|WD~Federal_University_of_Rio_de_Janeiro,586904]]"
+
 has_time_started: 1920-09-07 
 aliases:
   - Federal University of Rio de Janeiro
@@ -53,7 +59,7 @@ official_website:
   - https://ufrj.br/en/
 ISNI: 000000012294473X
 EU_Participant_Identification_Code: 999848841
-Wolfram_Language_entity_code: Entity["University", "UniversidadeFederalDoRioDeJaneiro::wcdv4"]
+Wolfram_Language_entity_code: Entity"University", "UniversidadeFederalDoRioDeJaneiro = `=this.dv_"University", "UniversidadeFederalDoRioDeJaneiro`
 Commons_category: Federal University of Rio de Janeiro
 e_MEC_entry: NTg2
 Facebook_username: PortalUFRJ
@@ -68,7 +74,7 @@ coordinate_location: Point(-43.223888888 -22.8625)
 
 # [[Federal_University_of_Rio_de_Janeiro]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Federal_University_of_Rio_de_Janeiro,586904|WD~Federal_University_of_Rio_de_Janeiro,586904]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -79,4 +85,21 @@ coordinate_location: Point(-43.223888888 -22.8625)
 > Former alumni include renowned economists Carlos Lessa and Mário Henrique Simonsen; Minister Marco Aurélio Mello; the architect Oscar Niemeyer; the philosopher and politician Roberto Mangabeira Unger; the educator Anísio Teixeira; the engineer Benjamin Constant; writers Clarice Lispector, Jorge Amado and Vinicius de Moraes; politicians Francisco Pereira Passos, Oswaldo Aranha and Pedro Calmon, besides the great physicians Carlos Chagas, Oswaldo Cruz and Vital Brazil.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Federal%20University%20of%20Rio%20de%20Janeiro) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro|Federal_University_of_Rio_de_Janeiro]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro.public|Federal_University_of_Rio_de_Janeiro.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro.internal|Federal_University_of_Rio_de_Janeiro.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro.protect|Federal_University_of_Rio_de_Janeiro.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro.private|Federal_University_of_Rio_de_Janeiro.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro.personal|Federal_University_of_Rio_de_Janeiro.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/Federal_University_of_Rio_de_Janeiro.secret|Federal_University_of_Rio_de_Janeiro.secret]] 
 

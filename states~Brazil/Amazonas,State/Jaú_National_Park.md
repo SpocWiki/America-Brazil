@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Jaú_National_Park,332381]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Jaú_National_Park,332381]]"
+
 has_time_started: 1980-01-01 
 aliases:
   - Jaú National Park
@@ -30,7 +34,7 @@ native_label: Parque nacional del Jaú
 
 # [[Jaú_National_Park]] 
 
-#is_/same_as :: [[WD~Jaú_National_Park,332381]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -40,4 +44,21 @@ native_label: Parque nacional del Jaú
 > It is one of the largest forest reserves in South America, and part of a World Heritage Site.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ja%C3%BA%20National%20Park) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park|Jaú_National_Park]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park.public|Jaú_National_Park.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park.internal|Jaú_National_Park.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park.protect|Jaú_National_Park.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park.private|Jaú_National_Park.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park.personal|Jaú_National_Park.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Amazonas,State/Jaú_National_Park.secret|Jaú_National_Park.secret]] 
 

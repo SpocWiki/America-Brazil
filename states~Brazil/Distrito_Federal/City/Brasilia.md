@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -47.92
+dv_has_place_latitude: -15.78
+dv_name: Brasilia
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Brasília,2844|WD~Brasília,2844]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Brasília,2844|WD~Brasília,2844]]"
+
 has_time_started: 1960-04-21 
 aliases:
   - Brasília
@@ -136,17 +144,17 @@ coordinate_location: Point(-47.882777777 -15.793888888)
 # [[Brasilia]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-47.92] 
-[has_place_latitude::-15.78] 
-[name::Brasilia] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Brazil]]  
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Brasília,2844|WD~Brasília,2844]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ```leaflet
@@ -160,17 +168,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brasilia](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia|Brasilia]] 
 
-### [Brasilia.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.public|Brasilia.public]] 
 
-### [Brasilia.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.internal|Brasilia.internal]] 
 
-### [Brasilia.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.protect|Brasilia.protect]] 
 
-### [Brasilia.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.private|Brasilia.private]] 
 
-### [Brasilia.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.personal|Brasilia.personal]] 
 
-### [Brasilia.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Distrito_Federal/City/Brasilia.secret|Brasilia.secret]] 
 

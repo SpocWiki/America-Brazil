@@ -41,17 +41,17 @@ markerFolder: ./Rio_Grande_do_Sul/
 
 ## Confidential Links & Embeds: 
 
-### [Rio_Grande_do_Sul](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul|Rio_Grande_do_Sul]] 
 
-### [Rio_Grande_do_Sul.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.public|Rio_Grande_do_Sul.public]] 
 
-### [Rio_Grande_do_Sul.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.internal|Rio_Grande_do_Sul.internal]] 
 
-### [Rio_Grande_do_Sul.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.protect|Rio_Grande_do_Sul.protect]] 
 
-### [Rio_Grande_do_Sul.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.private|Rio_Grande_do_Sul.private]] 
 
-### [Rio_Grande_do_Sul.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.personal|Rio_Grande_do_Sul.personal]] 
 
-### [Rio_Grande_do_Sul.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_Grande_do_Sul.secret|Rio_Grande_do_Sul.secret]] 
 

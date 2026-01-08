@@ -1,4 +1,12 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -46.64
+dv_has_place_latitude: -23.54
+dv_name: Sao Paulo
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]"
+
 has_time_started: 1554-02-04 
 aliases:
   - Sao_Paulo
@@ -224,15 +232,15 @@ elevation_above_sea_level: 760
 # [[Sao_Paulo,City]]
 
  #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-46.64] 
-[has_place_latitude::-23.54] 
-[name::Sao Paulo] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Brazil]]  
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -274,17 +282,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sao_Paulo,City,City](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City|Sao_Paulo,City]] 
 
-### [Sao_Paulo,City,City.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City.public|Sao_Paulo,City.public]] 
 
-### [Sao_Paulo,City,City.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City.internal|Sao_Paulo,City.internal]] 
 
-### [Sao_Paulo,City,City.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City.protect|Sao_Paulo,City.protect]] 
 
-### [Sao_Paulo,City,City.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City.private|Sao_Paulo,City.private]] 
 
-### [Sao_Paulo,City,City.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City.personal|Sao_Paulo,City.personal]] 
 
-### [Sao_Paulo,City,City.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State/counties~São_Paulo/Sao_Paulo,City.secret|Sao_Paulo,City.secret]] 
 

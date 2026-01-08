@@ -1,7 +1,9 @@
 ---
 aliases:
 has_id_wikidata: Q559784
-location: [ -21.515670063, -41.412814724]
+location:
+  - -21.515670063
+  - -41.412814724
 coordinate_location:
   - Point(-49.279759253 -26.690685867)
   - Point(-41.412814724 -21.515670063)
@@ -25,11 +27,14 @@ elevation_above_sea_level: 604
 Commons_category: Serra do Mar
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20serra%20do%20mar.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Serra%20dos%20%C3%93rg%C3%A3osBrazil.jpg
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~Serra_do_Mar,559784|WD~Serra_do_Mar,559784]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~Serra_do_Mar,559784|WD~Serra_do_Mar,559784]]"
 ---
 
 # [[Serra_do_Mar]] 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Serra_do_Mar,559784|WD~Serra_do_Mar,559784]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -39,4 +44,20 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Serra%20dos%20%C3%93rg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Serra%20do%20Mar) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar|Serra_do_Mar]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar.public|Serra_do_Mar.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar.internal|Serra_do_Mar.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar.protect|Serra_do_Mar.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar.private|Serra_do_Mar.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar.personal|Serra_do_Mar.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo/Serra_do_Mar.secret|Serra_do_Mar.secret]] 
 

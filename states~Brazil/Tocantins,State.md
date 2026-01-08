@@ -84,19 +84,20 @@ markerFile: [[Tocantins,State]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tocantins)
 
+
 ## Confidential Links & Embeds: 
 
-### [Tocantins,State](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State|Tocantins,State]] 
 
-### [Tocantins,State.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.public|Tocantins,State.public]] 
 
-### [Tocantins,State.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.internal|Tocantins,State.internal]] 
 
-### [Tocantins,State.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.protect|Tocantins,State.protect]] 
 
-### [Tocantins,State.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.private|Tocantins,State.private]] 
 
-### [Tocantins,State.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.personal|Tocantins,State.personal]] 
 
-### [Tocantins,State.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Tocantins,State.secret|Tocantins,State.secret]] 
 

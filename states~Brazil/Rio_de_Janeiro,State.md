@@ -42,17 +42,17 @@ markerFolder: ./Rio_de_Janeiro,State/
 
 ## Confidential Links & Embeds: 
 
-### [Rio_de_Janeiro,State](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State|Rio_de_Janeiro,State]] 
 
-### [Rio_de_Janeiro,State.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.public|Rio_de_Janeiro,State.public]] 
 
-### [Rio_de_Janeiro,State.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.internal|Rio_de_Janeiro,State.internal]] 
 
-### [Rio_de_Janeiro,State.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.protect|Rio_de_Janeiro,State.protect]] 
 
-### [Rio_de_Janeiro,State.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.private|Rio_de_Janeiro,State.private]] 
 
-### [Rio_de_Janeiro,State.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.personal|Rio_de_Janeiro,State.personal]] 
 
-### [Rio_de_Janeiro,State.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State.secret|Rio_de_Janeiro,State.secret]] 
 

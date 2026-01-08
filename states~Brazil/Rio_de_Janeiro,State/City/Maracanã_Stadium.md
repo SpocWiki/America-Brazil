@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Maracanã_Stadium,155174]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Maracanã_Stadium,155174]]"
+
 has_time_started: 1950-06-16 
 aliases:
 has_id_wikidata: Q155174
@@ -40,7 +44,7 @@ postal_code: 20271-130
 
 # [[Maracanã_Stadium]] 
 
-#is_/same_as :: [[WD~Maracanã_Stadium,155174]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -51,4 +55,21 @@ postal_code: 20271-130
 > The stadium is mainly used for football matches between the major football clubs in Rio de Janeiro, including Fluminense, Flamengo, Botafogo, and Vasco da Gama. It has also hosted a number of concerts and other sporting events. It was the main venue for the 2007 Pan American Games, hosting the football tournament and the opening and closing ceremonies. The Maracanã was partially rebuilt in preparation for the 2013 FIFA Confederations Cup, and the 2014 World Cup, for which it hosted several matches, including the final. It is also set to host matches for the 2027 FIFA Women's World Cup, most likely to host the final. It served as the venue for the opening and closing ceremonies of the 2016 Summer Olympics and Paralympics, with the main track and field events taking place at the Estádio Olímpico. The stadium was also chosen to host the 2020 and 2023 Copa Libertadores finals.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maracan%C3%A3%20Stadium) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium|Maracanã_Stadium]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium.public|Maracanã_Stadium.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium.internal|Maracanã_Stadium.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium.protect|Maracanã_Stadium.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium.private|Maracanã_Stadium.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium.personal|Maracanã_Stadium.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Maracanã_Stadium.secret|Maracanã_Stadium.secret]] 
 

@@ -5,22 +5,22 @@ aliases:
   - Iguazu Falls
   - Iguazu_Falls
 has_id_wikidata: Q36332
-part_of: '[[_Standards/WikiData/WD~Iguazu_River,191635]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Iguazu_River,191635]]'
+part_of: "[[_Standards/WikiData/WD~Iguazu_River,191635]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Iguazu_River,191635]]"
 located_in_protected_area:
-  - '[[_Standards/WikiData/WD~Iguazú_National_Park,474205]]'
-  - '[[_Standards/WikiData/WD~Iguaçu_National_Park,742315]]'
+  - "[[_Standards/WikiData/WD~Iguazú_National_Park,474205]]"
+  - "[[_Standards/WikiData/WD~Iguaçu_National_Park,742315]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~tourist_attraction,570116]]'
-  - '[[_Standards/WikiData/WD~horseshoe_waterfall,2270442]]'
-  - '[[_Standards/WikiData/WD~waterfall,34038]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~Q46867411,46867411]]'
+  - "[[_Standards/WikiData/WD~tourist_attraction,570116]]"
+  - "[[_Standards/WikiData/WD~horseshoe_waterfall,2270442]]"
+  - "[[_Standards/WikiData/WD~waterfall,34038]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~Q46867411,46867411]]"
 country:
-  - '[[_Standards/WikiData/WD~Argentina,414]]'
-  - '[[_Standards/WikiData/WD~Brazil,155]]'
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
 located_in_the_administrative_territorial_entity:
-  - '[[_Standards/WikiData/WD~Paraná,15499]]'
-  - '[[_Standards/WikiData/WD~Misiones_Province,44798]]'
+  - "[[_Standards/WikiData/WD~Paraná,15499]]"
+  - "[[_Standards/WikiData/WD~Misiones_Province,44798]]"
 elevation_above_sea_level: 180
 width: 2700
 height: 82
@@ -39,11 +39,14 @@ Google_Doodle: discovery-of-the-iguacu-falls
 Wolfram_Language_entity_code: Entity["Waterfall", "Iguazu"]
 Commons_gallery: Iguazu Falls
 Commons_category: Iguazu Falls
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Iguaçu_Falls,36332|WD~Iguaçu_Falls,36332]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Iguaçu_Falls,36332|WD~Iguaçu_Falls,36332]]"
 ---
 
 # [[Iguazu_Falls]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Iguaçu_Falls,36332|WD~Iguaçu_Falls,36332]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -72,4 +75,21 @@ Commons_category: Iguazu Falls
 > It was inscribed into the UNESCO World Heritage List in 2013.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Iguazu%20Falls) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls|Iguazu_Falls]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls.public|Iguazu_Falls.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls.internal|Iguazu_Falls.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls.protect|Iguazu_Falls.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls.private|Iguazu_Falls.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls.personal|Iguazu_Falls.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/Iguazu_River/Iguazu_Falls.secret|Iguazu_Falls.secret]] 
 

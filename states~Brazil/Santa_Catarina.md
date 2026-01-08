@@ -41,17 +41,17 @@ markerFolder: ./Santa_Catarina/
 
 ## Confidential Links & Embeds: 
 
-### [Santa_Catarina](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina|Santa_Catarina]] 
 
-### [Santa_Catarina.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.public|Santa_Catarina.public]] 
 
-### [Santa_Catarina.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.internal|Santa_Catarina.internal]] 
 
-### [Santa_Catarina.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.protect|Santa_Catarina.protect]] 
 
-### [Santa_Catarina.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.private|Santa_Catarina.private]] 
 
-### [Santa_Catarina.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.personal|Santa_Catarina.personal]] 
 
-### [Santa_Catarina.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Santa_Catarina.secret|Santa_Catarina.secret]] 
 

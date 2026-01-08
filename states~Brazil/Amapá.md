@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~Amapá,40130]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~Amapá,40130]]"
+
 has_time_started: 1988-10-05 
 aliases:
   - Amapá
@@ -119,7 +123,7 @@ geojsonFolder: ./Amapá/
 markerFolder: ./Amapá/
 ```
 
-#is_/same_as :: [[_Standards/WikiData/WD~Amapá,40130]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -142,19 +146,20 @@ markerFolder: ./Amapá/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amap%C3%A1) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Amapá](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Amapá|Amapá]] 
 
-### [Amapá.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.public|Amapá.public]] 
 
-### [Amapá.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.internal|Amapá.internal]] 
 
-### [Amapá.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.protect|Amapá.protect]] 
 
-### [Amapá.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.private|Amapá.private]] 
 
-### [Amapá.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.personal|Amapá.personal]] 
 
-### [Amapá.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Amapá.secret|Amapá.secret]] 
 

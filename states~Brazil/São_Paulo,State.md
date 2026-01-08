@@ -1,4 +1,8 @@
-﻿---
+---
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]"
+
 has_time_started: 1554-02-04 
 aliases:
   - São_Paulo
@@ -212,7 +216,7 @@ Libris_URI: 42gjjrpn1cklhfp
 
 # [[São_Paulo,State]]
 
-#is_/same_as :: [[../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -241,19 +245,20 @@ defaultZoom: 11
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/S%C3%A3o%20Paulo)  
 
+
 ## Confidential Links & Embeds: 
 
-### [São_Paulo,State](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State|São_Paulo,State]] 
 
-### [São_Paulo,State.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.public|São_Paulo,State.public]] 
 
-### [São_Paulo,State.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.internal|São_Paulo,State.internal]] 
 
-### [São_Paulo,State.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.protect|São_Paulo,State.protect]] 
 
-### [São_Paulo,State.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.private|São_Paulo,State.private]] 
 
-### [São_Paulo,State.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.personal|São_Paulo,State.personal]] 
 
-### [São_Paulo,State.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/São_Paulo,State.secret|São_Paulo,State.secret]] 
 

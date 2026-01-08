@@ -42,17 +42,17 @@ markerFile: [[Pará]]
 
 ## Confidential Links & Embeds: 
 
-### [Pará](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Pará.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Pará|Pará]] 
 
-### [Pará.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Pará.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Pará.public|Pará.public]] 
 
-### [Pará.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Pará.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Pará.internal|Pará.internal]] 
 
-### [Pará.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Pará.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Pará.protect|Pará.protect]] 
 
-### [Pará.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Pará.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Pará.private|Pará.private]] 
 
-### [Pará.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Pará.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Pará.personal|Pará.personal]] 
 
-### [Pará.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Pará.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Pará.secret|Pará.secret]] 
 

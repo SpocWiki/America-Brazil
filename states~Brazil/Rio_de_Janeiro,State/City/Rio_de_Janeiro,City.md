@@ -18,20 +18,28 @@ tags:
 SpocWebEntityId: 33742
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -43.28
+dv_has_place_latitude: -22.88
+dv_name: Rio de Janeiro
+dv_Country: "[[../../../../Brazil]]"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]"
 ---
 
 # [[Rio_de_Janeiro,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-43.28] 
-[has_place_latitude::-22.88] 
-[name::Rio de Janeiro] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Brazil]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -65,20 +73,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Rio%20de%20Janeiro) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Rio_de_Janeiro,City](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City|Rio_de_Janeiro,City]] 
 
-### [Rio_de_Janeiro,City.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.public|Rio_de_Janeiro,City.public]] 
 
-### [Rio_de_Janeiro,City.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.internal|Rio_de_Janeiro,City.internal]] 
 
-### [Rio_de_Janeiro,City.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.protect|Rio_de_Janeiro,City.protect]] 
 
-### [Rio_de_Janeiro,City.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.private|Rio_de_Janeiro,City.private]] 
 
-### [Rio_de_Janeiro,City.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.personal|Rio_de_Janeiro,City.personal]] 
 
-### [Rio_de_Janeiro,City.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City.secret|Rio_de_Janeiro,City.secret]] 
 

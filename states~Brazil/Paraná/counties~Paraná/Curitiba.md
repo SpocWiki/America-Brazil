@@ -1,4 +1,10 @@
-﻿---
+---
+dv_"Concept", "Curitiba: 586j8"
+dv_is_:
+  same_as: "[[../../../../../../../WikiData/WD~Curitiba,4361|WD~Curitiba,4361]]"
+dv_concept-curitiba: 586j8"
+dv_is_same_as: "[[../../../../../../../WikiData/WD~Curitiba,4361|WD~Curitiba,4361]]"
+
 has_time_started: 1693-03-29 
 aliases:
 has_id_wikidata: Q4361
@@ -89,7 +95,7 @@ postal_code: 80000–82999
 UN_LOCODE: BRCWB
 Instagram_username: curitiba_pmc
 X_Twitter_username: Curitiba_PMC
-Wolfram_Language_entity_code: Entity["Concept", "Curitiba::586j8"]
+Wolfram_Language_entity_code: Entity"Concept", "Curitiba = `=this.dv_"Concept", "Curitiba`
 Facebook_username: PrefsCuritiba
 nickname:
   - Capital de les Araucàries
@@ -104,7 +110,7 @@ area: 430.74021
 
 # [[Curitiba]] 
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Curitiba,4361|WD~Curitiba,4361]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -124,4 +130,21 @@ area: 430.74021
 > Curitiba is one of the few Brazilian cities with a very high Human Development Index (0.856) and in 2010 it was awarded the Global Sustainable City Award, given to cities and municipalities that excel in sustainable urban development. According to US magazine Reader's Digest, Curitiba is the best "Brazilian Big City" in which to live. Curitiba's crime rate is considered low by Brazilian standards and the city is considered one of the safest cities in Brazil for youth. The city is also regarded as the best in which to invest in Brazil. Curitiba was one of the host cities of the 1950 FIFA World Cup, and again for the 2014 FIFA World Cup. Despite its good social indicators, the city has a higher unemployment rate than other cities in the state.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Curitiba) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba|Curitiba]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba.public|Curitiba.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba.internal|Curitiba.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba.protect|Curitiba.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba.private|Curitiba.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba.personal|Curitiba.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Paraná/counties~Paraná/Curitiba.secret|Curitiba.secret]] 
 

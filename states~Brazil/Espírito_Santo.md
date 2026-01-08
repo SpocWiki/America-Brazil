@@ -41,17 +41,17 @@ markerFolder: ./Espírito_Santo/
 
 ## Confidential Links & Embeds: 
 
-### [Espírito_Santo](/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo|Espírito_Santo]] 
 
-### [Espírito_Santo.public](/_public/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.public|Espírito_Santo.public]] 
 
-### [Espírito_Santo.internal](/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.internal|Espírito_Santo.internal]] 
 
-### [Espírito_Santo.protect](/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.protect|Espírito_Santo.protect]] 
 
-### [Espírito_Santo.private](/_private/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.private|Espírito_Santo.private]] 
 
-### [Espírito_Santo.personal](/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.personal|Espírito_Santo.personal]] 
 
-### [Espírito_Santo.secret](/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Brazil/states~Brazil/Espírito_Santo.secret|Espírito_Santo.secret]] 
 
