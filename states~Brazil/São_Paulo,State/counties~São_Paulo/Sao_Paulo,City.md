@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -46.64
 dv_has_place_latitude: -23.54
-dv_name: Sao Paulo
+dv_has_name_: Sao Paulo
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]"
 dv_is_same_as: "[[../../../../../../../WikiData/WD~São_Paulo,174|WD~São_Paulo,174]]"

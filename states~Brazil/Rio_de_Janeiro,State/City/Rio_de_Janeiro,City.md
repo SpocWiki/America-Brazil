@@ -21,7 +21,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -43.28
 dv_has_place_latitude: -22.88
-dv_name: Rio de Janeiro
+dv_has_name_: Rio de Janeiro
 dv_Country: "[[../../../../Brazil]]"
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Rio_de_Janeiro,8678|WD~Rio_de_Janeiro,8678]]"

@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -47.92
 dv_has_place_latitude: -15.78
-dv_name: Brasilia
+dv_has_name_: Brasilia
 dv_is_:
   same_as: "[[../../../../../../../WikiData/WD~Brasília,2844|WD~Brasília,2844]]"
 dv_is_same_as: "[[../../../../../../../WikiData/WD~Brasília,2844|WD~Brasília,2844]]"

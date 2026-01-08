@@ -45,15 +45,13 @@ dv_ISO4217-currency_country_name: BRAZIL
 dv_Telephone: 55
 dv_Global: true
 dv_Global_Name: World
-dv_name: Brazil
-dv_name-en:
-  - Brazil
-  - Brazil
-dv_name-es: Brasil
-dv_name-fr: Brésil
-dv_name-cn: 巴西
-dv_name-ar: البرازيل
-dv_name-ru: Бразилия
+dv_has_name_: Brazil
+dv_has_name_en: Brazil
+dv_has_name_es: Brasil
+dv_has_name_fr: Brésil
+dv_has_name_cn: 巴西
+dv_has_name_ar: البرازيل
+dv_has_name_ru: Бразилия
 dv_CLDR_display_name: Brazil
 dv_UNTERM_English: Brazil
 dv_UNTERM_English_Formal: the Federative Republic of Brazil
@@ -91,7 +89,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 76
 dv_ISO2: BR
 dv_ISO3: BRA
-dv_name-de: Brasilien
+dv_has_name_de: Brasilien
 dv_Area-Total: 8511996
 dv_Area-Land: 8456510
 dv_Continent: "[[South-America]]"
@@ -118,12 +116,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Brazil ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Brazil ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -183,8 +181,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Brazil] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Brazil] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
