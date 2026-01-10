@@ -45,7 +45,7 @@ dv_ISO4217-currency_country_name: BRAZIL
 dv_Telephone: 55
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Brazil
+dv_has_name: Brazil
 dv_has_name_en: Brazil
 dv_has_name_es: Brasil
 dv_has_name_fr: Brésil
@@ -115,7 +115,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Brazil ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 
