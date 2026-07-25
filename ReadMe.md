@@ -298,7 +298,7 @@ demonym:
 described_at_URL: https://www.cia.gov/library/publications/resources/the-world-factbook/geos/br.html
 described_by_source:
   - "[[/_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]"
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[/_Standards/WikiData/WD~Draft_History_of_Qing,1374339|WD~Draft_History_of_Qing,1374339]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
@@ -1276,7 +1276,7 @@ dv_ISO2: BR
 dv_ISO3: BRA
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Brazil,155|WD~Brazil,155]]"
+    - "[[../../../../WikiData/WD~Brazil,155|WD~Brazil,155]]"
     - "[[/_Standards/Earth/Continent/America~South/Brazil|Brazil]]"
     - "[[/_public/Earth/Continent/America~South/Brazil.public|Brazil.public]]"
     - "[[/_internal/Earth/Continent/America~South/Brazil.internal|Brazil.internal]]"
@@ -1297,7 +1297,7 @@ dv_has_telephone_prefix_country: 55
 dv_has_telephone_prefix_international: 00 + Provider-Code
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[../../../../WikiData/WD~Brazil,155|WD~Brazil,155]]"
   - "[[/_Standards/Earth/Continent/America~South/Brazil|Brazil]]"
   - "[[/_public/Earth/Continent/America~South/Brazil.public|Brazil.public]]"
   - "[[/_internal/Earth/Continent/America~South/Brazil.internal|Brazil.internal]]"
@@ -1381,12 +1381,12 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Brazil,155|WD~Brazil,155]] 
+#is_/same_as :: [[../../../../WikiData/WD~Brazil,155|WD~Brazil,155]] 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Brazil/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map  
@@ -1406,7 +1406,7 @@ markerFile: [[Brazil]]
 
 ```leaflet
 id: Brazil_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1430,13 +1430,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Brazil/Counties/Distrito_Federal/City/Brasilia|Brasilia]]  
+Capital :: [[Counties/Distrito_Federal/City/Brasilia|Brasilia]]  
 
-![[Brazil/Coat_of_arms_of_Brazil.svg|350]]
+![[Coat_of_arms_of_Brazil.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Brazil.mp3|Anthem-Brazil.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Brazil.mp3|Anthem-Brazil.mp3]]
 
-![[Brazil/Flag_of_Brazil.svg|350]]
+![[Flag_of_Brazil.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
@@ -1447,48 +1447,48 @@ has_place_latitude = `=this.dv_has_place_latitude`
 
 | City                                                              |  Pop/M | State (UF)                                                         | Notes on Importance                               |
 | ----------------------------------------------------------------- | -----: | ------------------------------------------------------------------ | ------------------------------------------------- |
-| [[Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City\|São Paulo]] | 11.451 | [[Brazil/states~Brazil/São_Paulo\|São Paulo]] (SP)                 | Financial and economic capital                    |
-| [[Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City\|Rio de Janeiro]]                                                    |  6.211 | [[Brazil/states~Brazil/Rio_de_Janeiro,State\|Rio de Janeiro]] (RJ) | Cultural center, tourism, former national capital |
-| [[Brazil/states~Brazil/Distrito_Federal/City/Brasilia\|Brasília]]                                                          |  3.115 | [[Brazil/states~Brazil/Distrito_Federal\|Distrito Federal]] (DF)   | National political capital                        |
-| Salvador                                                          |  2.900 | [[Brazil/states~Brazil/Bahia\|Bahia]] (BA)                         | Historical and cultural hub                       |
-| Fortaleza                                                         |  2.703 | [[Brazil/states~Brazil/Ceará\|Ceará]] (CE)                         | Key city in the Northeast region                  |
-| Belo Horizonte                                                    |  2.557 | [[Brazil/states~Brazil/Minas_Gerais\|Minas Gerais]] (MG)           | Economic and cultural significance                |
-| Manaus                                                            |  2.334 | [[Brazil/states~Brazil/Amazonas\|Amazonas]] (AM)                   | Industrial zone and Amazon gateway                |
-| Curitiba                                                          |  1.963 | [[Brazil/states~Brazil/Paraná\|Paraná]] (PR)                       | Model for urban planning and sustainability       |
-| Recife                                                            |  1.661 | [[Brazil/states~Brazil/Pernambuco\|Pernambuco]] (PE)               | Important port and tech development hub           |
+| [[states~Brazil/São_Paulo/City/Sao_Paulo,City/|São Paulo]] | 11.451 | [[states~Brazil/São_Paulo/|São Paulo]] (SP)                 | Financial and economic capital                    |
+| [[states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/|Rio de Janeiro]]                                                    |  6.211 | [[states~Brazil/Rio_de_Janeiro,State/|Rio de Janeiro]] (RJ) | Cultural center, tourism, former national capital |
+| [[states~Brazil/Distrito_Federal/City/Brasilia/|Brasília]]                                                          |  3.115 | [[states~Brazil/Distrito_Federal/|Distrito Federal]] (DF)   | National political capital                        |
+| Salvador                                                          |  2.900 | [[states~Brazil/Bahia/|Bahia]] (BA)                         | Historical and cultural hub                       |
+| Fortaleza                                                         |  2.703 | [[states~Brazil/Ceará/|Ceará]] (CE)                         | Key city in the Northeast region                  |
+| Belo Horizonte                                                    |  2.557 | [[states~Brazil/Minas_Gerais/|Minas Gerais]] (MG)           | Economic and cultural significance                |
+| Manaus                                                            |  2.334 | [[states~Brazil/Amazonas/|Amazonas]] (AM)                   | Industrial zone and Amazon gateway                |
+| Curitiba                                                          |  1.963 | [[states~Brazil/Paraná/|Paraná]] (PR)                       | Model for urban planning and sustainability       |
+| Recife                                                            |  1.661 | [[states~Brazil/Pernambuco/|Pernambuco]] (PE)               | Important port and tech development hub           |
 
 
 ## #has_/parts 
 
 | State               | Capital        | Population (2022–2024) | Area (km²) | HDI          | Notable Features                                                            |
 | ------------------- | -------------- | ---------------------- | ---------- | ------------ | --------------------------------------------------------------------------- |
-| [[Brazil/states~Brazil/Acre\|Acre]]                | Rio Branco     | 909 000 inhab.         | 164 123    | 0.709–0.714  | Amazon rainforest; border with [[Andes/Peru|Peru]]                                         |
-| [[Brazil/states~Brazil/Alagoas\|Alagoas]]             | Maceió         | 3 365 350 inhab.       | 27 779     | ~0.712       | Coastal tourism; historical Quilombo dos Palmares                           |
-| [[Brazil/states~Brazil/Amapá\|Amapá]]               | Macapá         | 877 610 inhab.         | 142 829    | ~0.741       | Equatorial rainforest; state of the equator                                 |
-| [[Brazil/states~Brazil/Amazonas\|Amazonas]]            | Manaus         | 4 270 000 inhab.       | 1 559 159  | ~0.730       | [[Amazon_River\|Amazon River]] basin; industrial Manaus Free Trade Zone                       |
-| [[Brazil/states~Brazil/Bahia\|Bahia]]               | Salvador       | 14 141 626 inhab.      | 565 733    | 0.691        | Rich Afro‑Brazilian culture; tourism and petroleum                          |
-| [[Brazil/states~Brazil/Ceará\|Ceará]]               | Fortaleza      | 9 240 580 inhab.       | 148 921    | ~0.732       | Northeast beach tourism; wind power                                         |
-| [[Brazil/states~Brazil/Distrito_Federal\|Distrito Federal]]    | [[Brazil/states~Brazil/Distrito_Federal/City/Brasilia\|Brasília]]       | 3 094 330 inhab.       | 5 780      | ~0.822       | National capital; highest HDI of all units                                  |
-| [[Brazil/states~Brazil/Espírito_Santo\|Espírito Santo]]      | Vitória        | 4 108 510 inhab.       | 46 095     | ~0.762       | Port exports; wine and mining                                               |
-| [[Brazil/states~Brazil/Goiás\|Goiás]]               | Goiânia        | 7 350 480 inhab.       | 340 112    | ~0.804       | Agribusiness hub; close to Brasília                                         |
-| [[Brazil/states~Brazil/Maranhão\|Maranhão]]            | São Luís       | 7 153 260 inhab.       | 331 937    | ~0.698       | Lençóis Maranhenses; cultural blend                                         |
-| [[Brazil/states~Brazil/Mato_Grosso\|Mato Grosso]]         | Cuiabá         | 3 567 230 inhab.       | 903 366    | ~0.751       | Soy and cattle ranching; Pantanal region                                    |
-| [[Brazil/states~Brazil/Mato_Grosso_do_Sul\|Mato Grosso do Sul]]  | Campo Grande   | 2 839 190 inhab.       | 357 146    | ~0.763       | Pantanal wetlands; cattle and agriculture                                   |
-| [[Brazil/states~Brazil/Minas_Gerais\|Minas Gerais]]        | Belo Horizonte | 21 411 920 inhab.      | 586 522    | ~0.760–0.774 | Mining sector; UNESCO heritage; economic diversification                    |
-| [[Brazil/states~Brazil/Pará\|Pará]]                | Belém          | 8 777 120 inhab.       | 1 247 955  | ~0.712       | [[Amazon_River\|Amazon River]] delta; rubber, açaí, mineral resources                         |
-| [[Brazil/states~Brazil/Paraíba\|Paraíba]]             | João Pessoa    | 4 059 910 inhab.       | 56 470     | ~0.729       | Coastal tourism; early abolitionist movements                               |
-| [[Brazil/states~Brazil/Paraná\|Paraná]]              | Curitiba       | 11 597 480 inhab.      | 199 308    | ~0.763–0.792 | Industrial agriculture; high HDI                                            |
-| [[Brazil/states~Brazil/Pernambuco\|Pernambuco]]          | Recife         | 9 674 790 inhab.       | 98 148     | ~0.735       | Port infrastructure; cultural/events festivals                              |
-| [[Brazil/states~Brazil/Piauí\|Piauí]]               | Teresina       | 3 289 290 inhab.       | 251 578    | ~0.707       | Semi-arid; major hydroelectric initiatives                                  |
-| [[Brazil/states~Brazil/Rio_de_Janeiro,State\|Rio de Janeiro]]      | [[Brazil/states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City\|Rio de Janeiro]] | 17 463 350 inhab.      | 43 780     | ~0.789       | Tourism icon; cultural industries; high GDP                                 |
-| [[Brazil/states~Brazil/Rio_Grande_do_Norte\|Rio Grande do Norte]] | Natal          | 3 560 900 inhab.       | 52 811     | ~0.749       | Salt production; coastal tourism                                            |
-| [[Brazil/states~Brazil/Rio_Grande_do_Sul\|Rio Grande do Sul]]   | Porto Alegre   | 11 466 630 inhab.      | 281 730    | ~0.775       | Livestock, wine, strong European heritage                                   |
-| [[Brazil/states~Brazil/Rondônia\|Rondônia]]            | Porto Velho    | 1 815 280 inhab.       | 237 591    | ~0.727       | Amazon development frontier                                                 |
-| [[Brazil/states~Brazil/Roraima\|Roraima]]             | Boa Vista      | 652 710 inhab.         | 224 301    | ~0.756       | Low density; indigenous reserves                                            |
-| [[Brazil/states~Brazil/Santa_Catarina\|Santa Catarina]]      | Florianópolis  | 7 338 470 inhab.       | 95 736     | ~0.808       | Tourism; German/Italian heritage; one of highest HDIs                       |
-| [[Brazil/states~Brazil/São_Paulo\|São Paulo]]           | [[Brazil/states~Brazil/São_Paulo/City/Sao_Paulo,City\|São Paulo]]      | 46 649 130 inhab.      | 248 223    | ~0.780–0.786 | Economic powerhouse (~50 % of national GDP); leading R&D and infrastructure |
-| [[Brazil/states~Brazil/Sergipe\|Sergipe]]             | Aracaju        | 2 210 004 inhab.       | 21 910     | ~0.702       | Smallest state; coastal oil and gas                                         |
-| [[Brazil/states~Brazil/Tocantins\|Tocantins]]           | Palmas         | 1 607 360 inhab.       | 277 721    | ~0.748       | Newly created (1988); agribusiness corridor                                 |
+| [[states~Brazil/Acre/|Acre]]                | Rio Branco     | 909 000 inhab.         | 164 123    | 0.709–0.714  | Amazon rainforest; border with [[../Andes/Peru|Peru]]                                         |
+| [[states~Brazil/Alagoas/|Alagoas]]             | Maceió         | 3 365 350 inhab.       | 27 779     | ~0.712       | Coastal tourism; historical Quilombo dos Palmares                           |
+| [[states~Brazil/Amapá/|Amapá]]               | Macapá         | 877 610 inhab.         | 142 829    | ~0.741       | Equatorial rainforest; state of the equator                                 |
+| [[states~Brazil/Amazonas/|Amazonas]]            | Manaus         | 4 270 000 inhab.       | 1 559 159  | ~0.730       | [[Amazon_River\|Amazon River]] basin; industrial Manaus Free Trade Zone                       |
+| [[states~Brazil/Bahia/|Bahia]]               | Salvador       | 14 141 626 inhab.      | 565 733    | 0.691        | Rich Afro‑Brazilian culture; tourism and petroleum                          |
+| [[states~Brazil/Ceará/|Ceará]]               | Fortaleza      | 9 240 580 inhab.       | 148 921    | ~0.732       | Northeast beach tourism; wind power                                         |
+| [[states~Brazil/Distrito_Federal/|Distrito Federal]]    | [[states~Brazil/Distrito_Federal/City/Brasilia/|Brasília]]       | 3 094 330 inhab.       | 5 780      | ~0.822       | National capital; highest HDI of all units                                  |
+| [[states~Brazil/Espírito_Santo/|Espírito Santo]]      | Vitória        | 4 108 510 inhab.       | 46 095     | ~0.762       | Port exports; wine and mining                                               |
+| [[states~Brazil/Goiás/|Goiás]]               | Goiânia        | 7 350 480 inhab.       | 340 112    | ~0.804       | Agribusiness hub; close to Brasília                                         |
+| [[states~Brazil/Maranhão/|Maranhão]]            | São Luís       | 7 153 260 inhab.       | 331 937    | ~0.698       | Lençóis Maranhenses; cultural blend                                         |
+| [[states~Brazil/Mato_Grosso/|Mato Grosso]]         | Cuiabá         | 3 567 230 inhab.       | 903 366    | ~0.751       | Soy and cattle ranching; Pantanal region                                    |
+| [[states~Brazil/Mato_Grosso_do_Sul/|Mato Grosso do Sul]]  | Campo Grande   | 2 839 190 inhab.       | 357 146    | ~0.763       | Pantanal wetlands; cattle and agriculture                                   |
+| [[states~Brazil/Minas_Gerais/|Minas Gerais]]        | Belo Horizonte | 21 411 920 inhab.      | 586 522    | ~0.760–0.774 | Mining sector; UNESCO heritage; economic diversification                    |
+| [[states~Brazil/Pará/|Pará]]                | Belém          | 8 777 120 inhab.       | 1 247 955  | ~0.712       | [[Amazon_River\|Amazon River]] delta; rubber, açaí, mineral resources                         |
+| [[states~Brazil/Paraíba/|Paraíba]]             | João Pessoa    | 4 059 910 inhab.       | 56 470     | ~0.729       | Coastal tourism; early abolitionist movements                               |
+| [[states~Brazil/Paraná/|Paraná]]              | Curitiba       | 11 597 480 inhab.      | 199 308    | ~0.763–0.792 | Industrial agriculture; high HDI                                            |
+| [[states~Brazil/Pernambuco/|Pernambuco]]          | Recife         | 9 674 790 inhab.       | 98 148     | ~0.735       | Port infrastructure; cultural/events festivals                              |
+| [[states~Brazil/Piauí/|Piauí]]               | Teresina       | 3 289 290 inhab.       | 251 578    | ~0.707       | Semi-arid; major hydroelectric initiatives                                  |
+| [[states~Brazil/Rio_de_Janeiro,State/|Rio de Janeiro]]      | [[states~Brazil/Rio_de_Janeiro,State/City/Rio_de_Janeiro,City/|Rio de Janeiro]] | 17 463 350 inhab.      | 43 780     | ~0.789       | Tourism icon; cultural industries; high GDP                                 |
+| [[states~Brazil/Rio_Grande_do_Norte/|Rio Grande do Norte]] | Natal          | 3 560 900 inhab.       | 52 811     | ~0.749       | Salt production; coastal tourism                                            |
+| [[states~Brazil/Rio_Grande_do_Sul/|Rio Grande do Sul]]   | Porto Alegre   | 11 466 630 inhab.      | 281 730    | ~0.775       | Livestock, wine, strong European heritage                                   |
+| [[states~Brazil/Rondônia/|Rondônia]]            | Porto Velho    | 1 815 280 inhab.       | 237 591    | ~0.727       | Amazon development frontier                                                 |
+| [[states~Brazil/Roraima/|Roraima]]             | Boa Vista      | 652 710 inhab.         | 224 301    | ~0.756       | Low density; indigenous reserves                                            |
+| [[states~Brazil/Santa_Catarina/|Santa Catarina]]      | Florianópolis  | 7 338 470 inhab.       | 95 736     | ~0.808       | Tourism; German/Italian heritage; one of highest HDIs                       |
+| [[states~Brazil/São_Paulo/|São Paulo]]           | [[states~Brazil/São_Paulo/City/Sao_Paulo,City/|São Paulo]]      | 46 649 130 inhab.      | 248 223    | ~0.780–0.786 | Economic powerhouse (~50 % of national GDP); leading R&D and infrastructure |
+| [[states~Brazil/Sergipe/|Sergipe]]             | Aracaju        | 2 210 004 inhab.       | 21 910     | ~0.702       | Smallest state; coastal oil and gas                                         |
+| [[states~Brazil/Tocantins/|Tocantins]]           | Palmas         | 1 607 360 inhab.       | 277 721    | ~0.748       | Newly created (1988); agribusiness corridor                                 |
 
 
 ## #has_/text_of_/abstract 
